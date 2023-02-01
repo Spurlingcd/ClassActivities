@@ -1,0 +1,24 @@
+* {background-color: rgb(218, 236, 217)
+}
+
+h1 {
+    border: 5px solid rgb(87, 2, 54)
+}
+.lists {
+    border: rgb(59, 9, 105)
+}
+h2 {
+    color:rgb(14, 4, 107)
+}
+ul.lists{
+   color:rgb(153, 93, 209);
+}
+ol.lists{
+    color:blueviolet
+}
+.list items > ol {
+    color:rgb(45, 7, 82)
+}
+h3 {
+    color:rgb(7, 56, 5)
+}
